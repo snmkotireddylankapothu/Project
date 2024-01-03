@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+/.venv/
+
+# IDE files
+.idea/
+*.iml
+
+# Compiled Python files
+*.pyc
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Database
+db.sqlite3
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# Secret key file
+secret_key.txt
+
+# Configuration files
+*.env
+
+# Ignore neural network model files (add more extensions if needed)
+*.h5
+*.pth
+
+# Ignore generated files or directories
+output/
+model_checkpoints/
